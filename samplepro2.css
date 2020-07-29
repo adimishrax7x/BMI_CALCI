@@ -1,0 +1,172 @@
+@media (max-width: 767px )
+ {
+h1 {
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 400%;
+}
+html{
+    background-image: url(https://images.unsplash.com/photo-1579113800032-c38bd7635818?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80);
+    background-size: cover;
+	 background-repeat: no-repeat;
+  background-size: auto;
+}
+form {
+    background-color:;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 20px 5px black;
+    margin: 10px;
+    padding: 10px;
+    width:100%;
+    max-width: 400px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+input {
+    box-shadow: 1px 1px 3px 1px black;
+    width: 90%;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+tr{
+    color:yellow;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+td,th{
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+#result{
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
+ }
+ 
+@media (min-width: 766px) , (max-width:990px)
+{
+  h1{
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 400%;
+}
+html{
+    background-image: url(https://images.unsplash.com/photo-1579113800032-c38bd7635818?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80);
+    background-size: cover;
+	 background-repeat: no-repeat;
+  background-size: auto;
+}
+form {
+    background-color:;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 20px 5px black;
+    margin: 10px;
+    padding: 10px;
+    width:100%;
+    max-width: 400px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+input {
+    box-shadow: 1px 1px 3px 1px black;
+    width: 90%;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+tr{
+    color:yellow;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+td,th{
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+#result{
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
+ }
+@media (min-width: 991px )
+  {
+ h1{
+	
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 400%;
+}
+html{
+    background-image:   url("https://images.unsplash.com/photo-1535743686920-55e4145369b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80");
+    background-size: cover;
+	 background-repeat: no-repeat;
+  background-size: auto;
+}
+form {
+    background-color:;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 20px 5px black;
+    margin: 10px;
+    padding: 10px;
+    width:100%;
+    max-width: 400px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+input {
+    box-shadow: 1px 1px 3px 1px black;
+    width: 90%;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+tr{
+    color:yellow;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+td,th{
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+#result{
+    font-family: "Courier New";
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
+ }
+ 
+ 

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" name="viewport">
+    <title>BMI CALCULATOR</title>
+    <link rel="stylesheet" href="samplepro2.css">
+    <script src="./bmi calculator.js"></script>
+</head>
+<br><br><br>
+<br>
+<body>
+
+<div>
+    <form>
+		<h1>BMI CALCULATOR</h1>
+
+
+        <input id="weight" type="text" placeholder="WEIGHT IN KILOGRAMS   : "/>
+        <br><br>
+        <input id="height" type="text" placeholder="HEIGHT IN CENTI-METRES : "/>
+        <br><br>
+        <input class="submit" type="button" value="SUBMIT" onclick="bmi()"/>
+        <p id="result">HERE IS THE RESULT</p>
+		<table>
+  <tr>
+    <th>BMI RANGE</th>
+    <th>YOU ARE :  </th>
+   
+  </tr>
+  <tr id="c1">
+    <td> LESS THAN 18.5 </td>
+    <td>     UNDER WEIGHT</td>
+
+  </tr>
+  <tr id="c2">
+    <td>18.5 to 24.9</td>
+    <td>     NORMAL</td>
+  </tr>
+  
+  <tr id="c3">
+    <td>25 to 29.5 </td>
+    <td>     OVER WEIGHT</td>
+  </tr>
+  
+   <tr id="c4">
+    <td>MORE THAN 30</td>
+    <td>     OBESE </td>
+  </tr>
+</table>
+    </form>
+	</div>
+	
+	
+</body>
+</html>
