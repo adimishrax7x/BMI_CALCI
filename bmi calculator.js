@@ -16,7 +16,7 @@ function bmi()
 var h = document.getElementById("height").value;
 var w = document.getElementById("weight").value;
 var r = w / ((h/100) * (h/100));
-document.getElementById("result").innerHTML = "Your bmi score is : " + r;
+document.getElementById("result").innerHTML = "Your bmi score is : " + r + "Kg/m2";
 cchange(r);
 }
 
