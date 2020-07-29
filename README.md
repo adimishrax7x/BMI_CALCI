@@ -1,4 +1,4 @@
-# BMI_CALCI
+# BMI CALCULATOR
 
 VISIT HERE :  https://adimishrax7x.github.io/BMI_CALCI/
 
