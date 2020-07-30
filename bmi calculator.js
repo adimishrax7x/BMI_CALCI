@@ -18,6 +18,7 @@ var w = document.getElementById("weight").value;
 var r = w / ((h/100) * (h/100));
 document.getElementById("result").innerHTML = "Your bmi score is : " + r;
 cchange(r);
+reload();
 }
 
 
