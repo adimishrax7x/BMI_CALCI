@@ -2,7 +2,7 @@
 
 VISIT HERE :  https://adimishrax7x.github.io/BMI_CALCI/
 
-This is a small sample project I've done in partnership with my friend and College mate SOUVIK NAYAK
+This is a small sample project I've done just to know how html css and js work .
 
 
 
